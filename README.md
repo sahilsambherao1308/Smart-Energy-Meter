@@ -328,7 +328,7 @@ Smart-Energy-Meter
 - Mobile application
 - OTA firmware updates
 - AI-based energy prediction
-- Smart home integration
+- Smart home integratio n
 
 
 ## 👥 Team Members & Credits
