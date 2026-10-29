@@ -331,6 +331,10 @@ Smart-Energy-Meter
 - Smart home integration
 
 
+## 👥 Team Members & Credits
+* **[sahil sambherao]
+* **[Vishnu Pawar](https://github.com/VishnuPawar21)** 
+* **[Ved patil ](https://github.com/VishnuPawar21)**
 
 
 ---
